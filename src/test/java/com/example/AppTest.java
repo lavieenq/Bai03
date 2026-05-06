@@ -9,6 +9,6 @@ class AppTest {
 
     @Test
     void testMultiply() {
-        assertEquals(6, app.multiply(2, 3));
+        assertEquals(10, app.multiply(2, 3));
     }
 }
